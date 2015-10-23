@@ -1,0 +1,4 @@
+tools:
+
+1. valgrind: memchecking
+	valgrind --leak-check=full -v ./a.out
